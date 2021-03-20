@@ -1,0 +1,5 @@
+include ':baidupaysdk'
+include ':paysdk'
+include ':smssdk'
+include ':app'
+rootProject.name = "CNiaoShop_04"
